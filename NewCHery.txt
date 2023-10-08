@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this new cherry
+=======
+this new cherru
+>>>>>>> 2348143 (Main changes)
