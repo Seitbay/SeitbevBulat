@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflicttime
+=======
+CONFLICT
+>>>>>>> f510cfa (Conflict with rebase)
